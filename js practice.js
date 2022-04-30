@@ -323,7 +323,7 @@
 
 //! js problem solving #2
 
-// // let jsConst = "wsaa.sad.php";
+// let jsConst = "wsaa.sad.php";
 // let fileName = prompt("Enter the file name with extension -")
 // const getFileExtension = () => fileName.slice(fileName.lastIndexOf("."));
 
